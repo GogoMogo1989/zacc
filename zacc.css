@@ -37,7 +37,7 @@
 body{
     background-color:#e8d3b9;
     width: auto;
-    font-family: 'Sedgwick Ave', cursive;
+    font-family: 'Gloria Hallelujah', cursive;
     min-width: 1200px;
     color:black;
 }
@@ -78,13 +78,33 @@ body{
     border-radius: 10%;
 }
 
-img{
+.contant1 img{
     width:240px;
     height:220px;
     padding:10px;
 }
+
+.contant2 img{
+  width:240px;
+  height:220px;
+  padding:10px;
+}
+
+.contant3 img{
+  width:240px;
+  height:220px;
+  padding:10px;
+}
+
+.contant4 img{
+  width:240px;
+  height:220px;
+  padding:10px;
+}
+
 ul{
     text-align: center;
+    list-style:none;
 }
 li{
     padding:5px 0px 5px 0px;
