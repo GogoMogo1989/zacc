@@ -37,7 +37,7 @@
 
 
 
-h2{
+.heading2{
     margin-left: 10px;
     padding-bottom: 20px;
 }
@@ -160,8 +160,5 @@ ul{
 }
 li{
     padding:5px 0px 5px 0px;
-}
-#container{
-    padding:40px 0px 0px 0px;
 }
 
