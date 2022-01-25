@@ -46,7 +46,7 @@ body{
     float:left;
     padding: 10px 20px 120px 20px;
     margin: 5px;
-    background-color: white;
+    background-color: #E1A140;
     box-shadow: 5px 10px rgb(83, 78, 78);
     border-radius: 10%;
 }
@@ -55,7 +55,7 @@ body{
     float:left;
     padding: 10px 20px 120px 20px;
     margin: 5px;
-    background-color: white;
+    background-color: #E1A140;
     box-shadow: 5px 10px rgb(83, 78, 78);
     border-radius: 10%;
 }
@@ -64,7 +64,7 @@ body{
     float:left;
     padding: 10px 20px 120px 20px;
     margin: 5px;
-    background-color: white;
+    background-color: #E1A140;
     box-shadow: 5px 10px rgb(83, 78, 78);
     border-radius: 10%;
 }
@@ -73,38 +73,47 @@ body{
     float:left;
     padding: 10px 20px 120px 20px;
     margin: 5px;
-    background-color: white;
+    background-color: #E1A140;
     box-shadow: 5px 10px rgb(83, 78, 78);
     border-radius: 10%;
 }
 
 .contant1 img{
-    width:240px;
-    height:220px;
-    padding:10px;
+  width:240px;
+  height:220px;
+  padding:10px;
+  border-radius:10%;
+  border: 1px solid black;
 }
 
 .contant2 img{
   width:240px;
   height:220px;
   padding:10px;
+  border-radius:10%;
+  border: 1px solid black;
 }
 
 .contant3 img{
   width:240px;
   height:220px;
   padding:10px;
+  border-radius:10%;
+  border: 1px solid black;
 }
 
 .contant4 img{
   width:240px;
   height:220px;
   padding:10px;
+  border-radius:10%;
+  border: 1px solid black;
 }
 
 ul{
     text-align: center;
     list-style:none;
+    text-shadow:1px 1px  grey;
 }
 li{
     padding:5px 0px 5px 0px;
