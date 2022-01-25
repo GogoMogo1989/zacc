@@ -34,6 +34,49 @@
     display: table;
     margin: auto;
 }
+
+
+
+h2{
+    margin-left: 10px;
+    padding-bottom: 20px;
+}
+
+.container{
+    width: 1000px;
+  
+}
+
+.leftside{
+    float: left;
+    width: 600px;
+    padding: 10px;
+
+}
+
+p{
+    text-align: justify;
+    line-height: 30px;
+}
+.rightside{
+    float: left;
+    width: 400px;
+    padding: 10px;
+}
+  .personal{
+  height: 100%;  
+  width: 100%;
+  padding: 10px;
+  border-radius: 20%;
+}
+
+#root100{
+  max-width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
 body{
     background-color:#e8d3b9;
     width: auto;
@@ -118,7 +161,7 @@ ul{
 li{
     padding:5px 0px 5px 0px;
 }
-#header{
-    padding:20px;
+#container{
+    padding:40px 0px 0px 0px;
 }
 
