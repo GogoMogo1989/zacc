@@ -153,14 +153,42 @@ body{
   border: 1px solid black;
 }
 
-ul{
+.contant1 ul{
     text-align: center;
     list-style:none;
     text-shadow:1px 1px  grey;
 }
-li{
+.contant1 li{
     padding:5px 0px 5px 0px;
 }
+
+.contant2 ul{
+  text-align: center;
+  list-style:none;
+  text-shadow:1px 1px  grey;
+}
+.contant2 li{
+  padding:5px 0px 5px 0px;
+}
+
+.contant3 ul{
+  text-align: center;
+  list-style:none;
+  text-shadow:1px 1px  grey;
+}
+.contant3 li{
+  padding:5px 0px 5px 0px;
+}
+
+.contant4 ul{
+  text-align: center;
+  list-style:none;
+  text-shadow:1px 1px  grey;
+}
+.contant4 li{
+  padding:5px 0px 5px 0px;
+}
+
 #footer{
   padding: 40px;
 }
