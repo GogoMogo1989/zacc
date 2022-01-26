@@ -43,25 +43,25 @@
 }
 
 .container{
-    width: 1000px;
+    width: 1200px;
   
 }
 
 .leftside{
     float: left;
     width: 600px;
-    padding: 10px;
-
+    padding:10px;
 }
 
 p{
     text-align: justify;
     line-height: 30px;
+    
 }
 .rightside{
     float: left;
-    width: 400px;
-    padding: 10px;
+    width:400px;
+    padding:10px;
 }
   .personal{
   height: 100%;  
@@ -72,8 +72,8 @@ p{
 
 #root100{
   max-width: 80%;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left:auto;
+  margin-right:auto;
 }
 
 
@@ -83,6 +83,7 @@ body{
     font-family: 'Gloria Hallelujah', cursive;
     min-width: 1200px;
     color:black;
+    margin-left:80px;
 }
 .contant1{
     width:280px;
@@ -188,9 +189,3 @@ body{
 .contant4 li{
   padding:5px 0px 5px 0px;
 }
-
-#footer{
-  padding: 40px;
-}
-
-
